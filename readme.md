@@ -20,3 +20,6 @@ Time Always helps you to track your productive and unproductive time and calcula
 
 # Deployed Link
 <a href="https://time-always.netlify.app/">Demo</a>
+
+<!-- portfolio link -->
+<a href="https://lokeshgola.github.io/">Portfolio</a>
